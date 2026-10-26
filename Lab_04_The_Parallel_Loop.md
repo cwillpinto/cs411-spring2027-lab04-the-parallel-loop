@@ -5,6 +5,8 @@
 **Due:** February 7, 2027  
 **Value:** 100 points
 
+**Starter repository:** [Open the Spring 2027 starter](https://github.com/cwillpinto/cs411-spring2027-lab04-the-parallel-loop)
+
 ## Purpose
 
 Convert a sequential image transform into a correct OpenMP loop. Prove that iterations are independent, preserve the checksum, and measure where speedup stops improving.

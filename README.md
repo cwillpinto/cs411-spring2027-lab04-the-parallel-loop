@@ -1,5 +1,7 @@
 # CS411 Spring 2027 · Lab 4: The Parallel Loop
 
+Starter template: https://github.com/cwillpinto/cs411-spring2027-lab04-the-parallel-loop
+
 Read the included handout. Complete the TODO in `src/transform.cpp`; keep the sequential reference path and the `transform_image` API.
 
 ```sh
@@ -20,7 +22,7 @@ If Blackboard links a template repository, choose **Use this template**, create 
 For a direct clone, first create an empty repository under your account. Replace the placeholders below with the starter link supplied in Blackboard and your own empty repository URL:
 
 ```sh
-git clone <instructor-starter-url>
+git clone https://github.com/cwillpinto/cs411-spring2027-lab04-the-parallel-loop
 cd <cloned-directory>
 git remote rename origin upstream
 git remote add origin <your-empty-repository-url>
